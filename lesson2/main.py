@@ -1,5 +1,6 @@
 import math
 import decimal
+import cmath
 
 """
 task 1
@@ -111,16 +112,14 @@ def quadratic_equations(a: int, b: int, c: int) -> list:
     res: list = []
     discriminant = pow(b, 2) - (4 * a * c)
     if discriminant > 0:
-        x1 = (-1 * b - math.sqrt(discriminant)) / (2 * a)
-        x2 = (-1 * b + math.sqrt(discriminant)) / (2 * a)
+        x1 = (-1 * b - cmath.sqrt(discriminant)) / (2 * a)
+        x2 = (-1 * b + cmath.sqrt(discriminant)) / (2 * a)
         res.append(x1)
         res.append(x2)
     elif discriminant == 0:
         x1 = (-1 * b) / 2 * a
         res.append(x1)
-    else:
-        print("корней нет")
     return res
 
 
-# print(quadratic_equations(10, 30, 1))
+print(*quadratic_equations(1, -5, 6))
