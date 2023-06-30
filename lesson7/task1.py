@@ -15,8 +15,8 @@ def func(file_name: str, serial_number: int, original_extensions: str, end_file_
         *_, extensions_file = str(obj).split('.')
         *_, name_file = str(obj).split('/')
         if extensions_file == original_extensions:
-            print(Path(obj).rename(f"{file_name}_{i}_{name_file[range_name[0]:range_name[1]]}.{end_file_extension}"))
+            print(Path(obj).rename(f"{name_file[range_name[0]:range_name[1]]}_{file_name}_{i}.{end_file_extension}"))
 
 
-# func("test_func", 2, 'txt', "py", [3, 6])
+func("test_func", 2, 'py', "py", [3, 6])
 
