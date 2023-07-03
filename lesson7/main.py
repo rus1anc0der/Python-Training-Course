@@ -44,6 +44,33 @@ def generate_name():
 ✔ В результирующем файле должно быть столько же строк, сколько в более длинном файле.
 ✔ При достижении конца более короткого файла, возвращайтесь в его начало."""
 
+
+def create_name_number():
+    with (open("generate_name.txt", "r", encoding='utf-8') as gn,
+          open("write_random_numbers.txt", "r", encoding="utf-8") as wrn,
+          open("create_name_number.txt", 'w', encoding='utf-8') as cnn):
+        list_name: list = []
+        list_number: list = []
+        for name in gn:
+            list_name.append(name.split('\n')[0])
+        for number in wrn:
+            mull_number = int(number.split('\n')[0].split(' ')[0]) * float(number.split('\n')[0].split(' ')[2])
+            list_number.append(mull_number)
+        if len(list_name) < len(list_number):
+            list_name += list_name
+        elif len(list_name) > len(list_number):
+            list_number += list_number
+        for name, number in zip(list_name, list_number):
+            if number < 0:
+                print(f"{name.lower()}-{abs(number)}", file=cnn)
+            else:
+                print(f"{name.upper()}-{int(number)}", file=cnn)
+        print(list_name)
+        print(list_number)
+
+
+create_name_number()
+
 """✔ Создайте функцию, которая создаёт файлы с указанным расширением. Функция принимает следующие параметры:
 ✔ расширение
 ✔ минимальная длина случайно сгенерированного имени, по умолчанию 6
@@ -87,7 +114,7 @@ def create_file_extensions(extensioins: list, count_file: list):
         create_file("/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/lesson7/test", i, count_file=j)
 
 
-create_file_extensions(["mp4", "mp3", "py", "jpg", "png", 'txt'], [2, 3, 4, 5, 6, 7])
+# create_file_extensions(["mp4", "mp3", "py", "jpg", "png", 'txt'], [2, 3, 4, 5, 6, 7])
 
 """✔ Дорабатываем функции из предыдущих задач.
 ✔ Генерируйте файлы в указанную директорию — отдельный параметр функции.
@@ -116,5 +143,4 @@ def sort_file():
         elif file_exten in extensoins_pictures:
             shutil.move(obj, Path().cwd() / 'test' / "pictures")
 
-
-sort_file()
+# sort_file()
