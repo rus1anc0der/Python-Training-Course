@@ -1,0 +1,95 @@
+dir_path,dir_name,file_name,size
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python,|['lesson3', 'lesson4', 'lesson5', 'lesson2', 'lesson7', 'lesson8', 'lesson1', 'lesson6', '.git', '.idea']|,['.DS_Store'],13664
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/lesson3,[],|['task3.py', 'task2.py', 'task1.py', 'main.py']|,192
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/lesson4,[],|['task3.py', 'task2.py', 'task1.py', 'main.py']|,192
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/lesson5,[],|['task3.py', 'task2.py', 'task1.py', 'main.py']|,192
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/lesson2,[],|['task2.py', 'task1.py', 'ATM.py', 'main.py']|,192
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/lesson7,[],|['.DS_Store', 'create_name_number.txt', 'task1.py', 'main.py', 'write_random_numbers.txt', 'generate_name.txt']|,256
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/lesson8,[],|['task1.pickle', 'task1.py', 'task1.csv', 'task1.JSON', 'main.py']|,224
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/lesson1,[],|['task3.py', 'task2.py', 'task1.py', 'main.py']|,192
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/lesson6,['__pycache__'],|['task3.py', 'task2.py', 'task1.py', 'main.py']|,320
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/lesson6/__pycache__,[],['task2.cpython-311.pyc'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git,|['objects', 'info', 'logs', 'hooks', 'refs']|,|['config', 'HEAD', 'description', 'index', 'COMMIT_EDITMSG']|,11040
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects,|['66', '3e', '68', '03', '32', '51', '67', '94', '60', '34', '05', 'd0', 'bc', 'ae', 'e2', 'ee', 'c9', 'cf', 'ca', '4e', 'pack', '29', '45', '8a', '10', '26', '4d', '86', '9f', '38', '6e', '36', '5d', '31', 'info', '65', '5b', '01', '6c', '52', '55', '97', '0f', '64', 'a0', 'b1', 'b6', 'a9', 'd2', 'b0', 'ef', 'e1', 'ff', 'cb', 'f8', '2c', '83', '77', '70', '24', '8d', '1d', '1c', '82', '40', '8b', '14', '8e']|,[],9024
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/66,[],['b4a1ea656399e9cfdf6bcc5018db1198019b2e'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/3e,[],['3c97151c64f50bbf12ea99dea3de48032dd00e'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/68,[],['54ae8c0b5d14301a559a4833209e6e9cad71e7'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/03,[],['a376d82425707fc2fe9f1df7e21a0d4ee787c6'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/32,[],['b4e9e4b1105a942ab26a4260fb3ba64e0b2118'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/51,[],['ba6d06c5fc22dcab0c23534206bf050aef1950'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/67,[],['c2c450b81df7f742eecd72c03e0c9028a91032'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/94,[],['a25f7f4cb416c083d265558da75d457237d671'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/60,[],['6068300c6783bdc4796a6a0c784af4e91be7ee'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/34,[],['b25bed39937d7a17a0adb09c1fc0e91aa3179b'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/05,[],['2969c40484609de693ae71eb3314f44db9cd01'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/d0,[],['876a78d06ac03b5d78c8dcdb95570281c6f1d6'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/bc,[],['11f6334474218fbc1b32b99b6e5dd8b568a01d'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/ae,[],['96c4728bf916f5a75888640dc5a0e4fba41af7'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/e2,[],['61c5d17ea67c4fdd8cb73c8776c8e0e8717d9e'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/ee,[],['50c4cf855f2ac84e593f196656c322ea9dad18'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/c9,[],['4ae9c284ebd2774a4e001fa90ff865b5427144'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/cf,[],['68f7a44e9cfd7079f56f215dc1778778198bb9'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/ca,[],['681ff63284c4108ea471b4e8dffa03cc48366c'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/4e,[],['d119e9fc11a53578b69c1081fe920162ebb66c'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/pack,[],[],64
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/29,[],|['e47f357d26a917e3b0e887612e87655d1555a6', '6f758dbb21f3b7142a04018781e6e5abf1953b']|,128
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/45,[],['6c8c9df40d6b3aba238159019ceddc9c6e7b45'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/8a,[],['718ead3673e5cb925e7e9027a20f26d93609c0'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/10,[],|['52778f9b2f773e335095ca6718a2712f386e0e', '5ce2da2d6447d11dfe32bfb846c3d5b199fc99']|,128
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/26,[],['d33521af10bcc7fd8cea344038eaaeb78d0ef5'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/4d,[],|['eb7b2328adbfbf9f983826852d1b2ef6176fe0', '57711ec2d72d5243a6f1da131d8971f1b5e6ed']|,128
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/86,[],['7814fb04b1dbf5deb950827048f22c384381c6'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/9f,[],['51bd8f78b44725847b8976267cc82bfeaef42c'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/38,[],['b1d0043235f0cdb6ddee5a0eed7397be7b690f'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/6e,[],['3afd3c4530310d98c01989e2ed19ae2d20b9ac'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/36,[],['b58480e9403e9abb2d995f1a711afe91fd4c10'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/5d,[],['0dbc63dd62a27c261b53d1d7e4b89d2c2d9348'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/31,[],['f0697072912e324814668979a3f0891fa2db9b'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/info,[],[],64
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/65,[],['e9272e22980edd9d307d2549ad603537f37952'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/5b,[],['0db9c06c422db18ae6fd087947574549dcf49b'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/01,[],|['019cdc73ede1f729d4b9fd1af0443efd059925', '92b3eb7745bb02a5a72b0c9573d2f9e3b83426', '6064f04dfdffc016d173983ee2d7514391c506']|,160
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/6c,[],['19e778285c8082ccf5ace1bfffd7bdf23fec60'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/52,[],['a8d1dae5aa4a0472452dff321a375695c31ca4'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/55,[],['9072d85d1406ed887b0091f8151781e4b970f8'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/97,[],['29a6bf13487889220bd51dededfaae492adad5'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/0f,[],['69d0be291db1355df6306211c34f264aceb374'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/64,[],['7832d761b21ee05d5a5db0f679228242d584a8'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/a0,[],['03436ec090339e8477443dd8810c5883aa85b4'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/b1,[],|['1b4e74ff35a40613cf919e7f344772ebc7588c', '65011015a35cc260f3b4f2b72bba11b2657468']|,128
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/b6,[],|['23e0b9b5f87f48de3b9dd6b51d52b1e3b5c24e', '6bf8b5762dd638f501d527dbd5042c9df8bc72', 'd50abaeefb55c6ead5a7a11dc93859dc205760']|,160
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/a9,[],|['71a2c93136ccb7f8094a2783d905d33dff9163', '99b37c7c5adb53bf293cf570ffc2f0f0910b2c']|,128
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/d2,[],['07d4349d83cb812f25ed4fb358677af0149d01'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/b0,[],['b4bcf19b072293a5ebde1811aeeea34ffb6419'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/ef,[],['fe125ebf515dd953ae345ab10fedd9854b0c89'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/e1,[],['964992ec4e79f218a8a998fac0824a52f94513'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/ff,[],['f75dcd1965822ad29c801d3d166e606abd8f0f'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/cb,[],['8352596e9da8310c83a1d02d2fed3d297a3b06'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/f8,[],['df2992d2586ff0b250bc7b96859f7ae05e1d52'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/2c,[],['852c1e380de2e44dfe05ac887ffd87ec2a40eb'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/83,[],['c48f9b8b494c3a0c88ae90b75617dc3a129226'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/77,[],|['8ea1ec069297d3b181b86ae6dd4d67161cc647', 'fc6e697b8d46a19230a34c41ac800b29d93dd6']|,128
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/70,[],['46a7bb9e48d9f10229de38688f7f20e0430931'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/24,[],['5f94cafdd47eaaa8d003cfa2e0ef871a7ecb29'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/8d,[],['d3f8f8a2c3ff6ba4f764b6e453e67934113fd7'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/1d,[],['f1c15b958217337c9e0bc1fe2457fb04e8960d'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/1c,[],['9c6c4318c3063758442c32c851217877b12c8d'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/82,[],['1ff5b4eb7f6beede7c7b5d87a46b2157e05787'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/40,[],['5bc4034cf11a87ffe97c4331c47fa94424d6d6'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/8b,[],['6f6e0b58a037fcd57acf16095116d195f6dd41'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/14,[],['e31209548a3aafda8415385e690ec88c7d596a'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/8e,[],['3f7305ba8301c509d93c2b9f33f5e5cb39ee25'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/info,[],['exclude'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/logs,['refs'],['HEAD'],544
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/logs/refs,|['heads', 'remotes']|,[],416
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/logs/refs/heads,[],['main'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/logs/refs/remotes,['origin'],[],192
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/logs/refs/remotes/origin,[],['main'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/hooks,[],|['commit-msg.sample', 'pre-rebase.sample', 'pre-commit.sample', 'applypatch-msg.sample', 'fsmonitor-watchman.sample', 'pre-receive.sample', 'prepare-commit-msg.sample', 'post-update.sample', 'pre-merge-commit.sample', 'pre-applypatch.sample', 'pre-push.sample', 'update.sample', 'push-to-checkout.sample']|,480
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/refs,|['heads', 'tags', 'remotes']|,[],512
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/refs/heads,[],['main'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/refs/tags,[],[],64
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/refs/remotes,['origin'],[],192
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/refs/remotes/origin,[],['main'],96
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.idea,['inspectionProfiles'],|['ДЗ по курсу Python.iml', 'csv-editor.xml', 'vcs.xml', '.gitignore', 'workspace.xml', 'modules.xml', 'misc.xml']|,448
+/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.idea/inspectionProfiles,[],|['profiles_settings.xml', 'Project_Default.xml']|,128

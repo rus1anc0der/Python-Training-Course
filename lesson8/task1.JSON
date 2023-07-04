@@ -1,0 +1,472 @@
+{
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python'": [
+    "dir_name = ['lesson3', 'lesson4', 'lesson5', 'lesson2', 'lesson7', 'lesson8', 'lesson1', 'lesson6', '.git', '.idea']",
+    "file_name = ['.DS_Store']",
+    "size = 13664"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/lesson3'": [
+    "dir_name = []",
+    "file_name = ['task3.py', 'task2.py', 'task1.py', 'main.py']",
+    "size = 192"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/lesson4'": [
+    "dir_name = []",
+    "file_name = ['task3.py', 'task2.py', 'task1.py', 'main.py']",
+    "size = 192"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/lesson5'": [
+    "dir_name = []",
+    "file_name = ['task3.py', 'task2.py', 'task1.py', 'main.py']",
+    "size = 192"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/lesson2'": [
+    "dir_name = []",
+    "file_name = ['task2.py', 'task1.py', 'ATM.py', 'main.py']",
+    "size = 192"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/lesson7'": [
+    "dir_name = []",
+    "file_name = ['.DS_Store', 'create_name_number.txt', 'task1.py', 'main.py', 'write_random_numbers.txt', 'generate_name.txt']",
+    "size = 256"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/lesson8'": [
+    "dir_name = []",
+    "file_name = ['task1.pickle', 'task1.py', 'task1.csv', 'task1.JSON', 'main.py']",
+    "size = 224"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/lesson1'": [
+    "dir_name = []",
+    "file_name = ['task3.py', 'task2.py', 'task1.py', 'main.py']",
+    "size = 192"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/lesson6'": [
+    "dir_name = ['__pycache__']",
+    "file_name = ['task3.py', 'task2.py', 'task1.py', 'main.py']",
+    "size = 320"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/lesson6/__pycache__'": [
+    "dir_name = []",
+    "file_name = ['task2.cpython-311.pyc']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git'": [
+    "dir_name = ['objects', 'info', 'logs', 'hooks', 'refs']",
+    "file_name = ['config', 'HEAD', 'description', 'index', 'COMMIT_EDITMSG']",
+    "size = 11040"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects'": [
+    "dir_name = ['66', '3e', '68', '03', '32', '51', '67', '94', '60', '34', '05', 'd0', 'bc', 'ae', 'e2', 'ee', 'c9', 'cf', 'ca', '4e', 'pack', '29', '45', '8a', '10', '26', '4d', '86', '9f', '38', '6e', '36', '5d', '31', 'info', '65', '5b', '01', '6c', '52', '55', '97', '0f', '64', 'a0', 'b1', 'b6', 'a9', 'd2', 'b0', 'ef', 'e1', 'ff', 'cb', 'f8', '2c', '83', '77', '70', '24', '8d', '1d', '1c', '82', '40', '8b', '14', '8e']",
+    "file_name = []",
+    "size = 9024"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/66'": [
+    "dir_name = []",
+    "file_name = ['b4a1ea656399e9cfdf6bcc5018db1198019b2e']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/3e'": [
+    "dir_name = []",
+    "file_name = ['3c97151c64f50bbf12ea99dea3de48032dd00e']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/68'": [
+    "dir_name = []",
+    "file_name = ['54ae8c0b5d14301a559a4833209e6e9cad71e7']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/03'": [
+    "dir_name = []",
+    "file_name = ['a376d82425707fc2fe9f1df7e21a0d4ee787c6']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/32'": [
+    "dir_name = []",
+    "file_name = ['b4e9e4b1105a942ab26a4260fb3ba64e0b2118']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/51'": [
+    "dir_name = []",
+    "file_name = ['ba6d06c5fc22dcab0c23534206bf050aef1950']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/67'": [
+    "dir_name = []",
+    "file_name = ['c2c450b81df7f742eecd72c03e0c9028a91032']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/94'": [
+    "dir_name = []",
+    "file_name = ['a25f7f4cb416c083d265558da75d457237d671']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/60'": [
+    "dir_name = []",
+    "file_name = ['6068300c6783bdc4796a6a0c784af4e91be7ee']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/34'": [
+    "dir_name = []",
+    "file_name = ['b25bed39937d7a17a0adb09c1fc0e91aa3179b']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/05'": [
+    "dir_name = []",
+    "file_name = ['2969c40484609de693ae71eb3314f44db9cd01']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/d0'": [
+    "dir_name = []",
+    "file_name = ['876a78d06ac03b5d78c8dcdb95570281c6f1d6']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/bc'": [
+    "dir_name = []",
+    "file_name = ['11f6334474218fbc1b32b99b6e5dd8b568a01d']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/ae'": [
+    "dir_name = []",
+    "file_name = ['96c4728bf916f5a75888640dc5a0e4fba41af7']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/e2'": [
+    "dir_name = []",
+    "file_name = ['61c5d17ea67c4fdd8cb73c8776c8e0e8717d9e']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/ee'": [
+    "dir_name = []",
+    "file_name = ['50c4cf855f2ac84e593f196656c322ea9dad18']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/c9'": [
+    "dir_name = []",
+    "file_name = ['4ae9c284ebd2774a4e001fa90ff865b5427144']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/cf'": [
+    "dir_name = []",
+    "file_name = ['68f7a44e9cfd7079f56f215dc1778778198bb9']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/ca'": [
+    "dir_name = []",
+    "file_name = ['681ff63284c4108ea471b4e8dffa03cc48366c']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/4e'": [
+    "dir_name = []",
+    "file_name = ['d119e9fc11a53578b69c1081fe920162ebb66c']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/pack'": [
+    "dir_name = []",
+    "file_name = []",
+    "size = 64"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/29'": [
+    "dir_name = []",
+    "file_name = ['e47f357d26a917e3b0e887612e87655d1555a6', '6f758dbb21f3b7142a04018781e6e5abf1953b']",
+    "size = 128"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/45'": [
+    "dir_name = []",
+    "file_name = ['6c8c9df40d6b3aba238159019ceddc9c6e7b45']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/8a'": [
+    "dir_name = []",
+    "file_name = ['718ead3673e5cb925e7e9027a20f26d93609c0']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/10'": [
+    "dir_name = []",
+    "file_name = ['52778f9b2f773e335095ca6718a2712f386e0e', '5ce2da2d6447d11dfe32bfb846c3d5b199fc99']",
+    "size = 128"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/26'": [
+    "dir_name = []",
+    "file_name = ['d33521af10bcc7fd8cea344038eaaeb78d0ef5']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/4d'": [
+    "dir_name = []",
+    "file_name = ['eb7b2328adbfbf9f983826852d1b2ef6176fe0', '57711ec2d72d5243a6f1da131d8971f1b5e6ed']",
+    "size = 128"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/86'": [
+    "dir_name = []",
+    "file_name = ['7814fb04b1dbf5deb950827048f22c384381c6']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/9f'": [
+    "dir_name = []",
+    "file_name = ['51bd8f78b44725847b8976267cc82bfeaef42c']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/38'": [
+    "dir_name = []",
+    "file_name = ['b1d0043235f0cdb6ddee5a0eed7397be7b690f']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/6e'": [
+    "dir_name = []",
+    "file_name = ['3afd3c4530310d98c01989e2ed19ae2d20b9ac']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/36'": [
+    "dir_name = []",
+    "file_name = ['b58480e9403e9abb2d995f1a711afe91fd4c10']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/5d'": [
+    "dir_name = []",
+    "file_name = ['0dbc63dd62a27c261b53d1d7e4b89d2c2d9348']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/31'": [
+    "dir_name = []",
+    "file_name = ['f0697072912e324814668979a3f0891fa2db9b']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/info'": [
+    "dir_name = []",
+    "file_name = []",
+    "size = 64"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/65'": [
+    "dir_name = []",
+    "file_name = ['e9272e22980edd9d307d2549ad603537f37952']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/5b'": [
+    "dir_name = []",
+    "file_name = ['0db9c06c422db18ae6fd087947574549dcf49b']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/01'": [
+    "dir_name = []",
+    "file_name = ['019cdc73ede1f729d4b9fd1af0443efd059925', '92b3eb7745bb02a5a72b0c9573d2f9e3b83426', '6064f04dfdffc016d173983ee2d7514391c506']",
+    "size = 160"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/6c'": [
+    "dir_name = []",
+    "file_name = ['19e778285c8082ccf5ace1bfffd7bdf23fec60']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/52'": [
+    "dir_name = []",
+    "file_name = ['a8d1dae5aa4a0472452dff321a375695c31ca4']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/55'": [
+    "dir_name = []",
+    "file_name = ['9072d85d1406ed887b0091f8151781e4b970f8']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/97'": [
+    "dir_name = []",
+    "file_name = ['29a6bf13487889220bd51dededfaae492adad5']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/0f'": [
+    "dir_name = []",
+    "file_name = ['69d0be291db1355df6306211c34f264aceb374']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/64'": [
+    "dir_name = []",
+    "file_name = ['7832d761b21ee05d5a5db0f679228242d584a8']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/a0'": [
+    "dir_name = []",
+    "file_name = ['03436ec090339e8477443dd8810c5883aa85b4']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/b1'": [
+    "dir_name = []",
+    "file_name = ['1b4e74ff35a40613cf919e7f344772ebc7588c', '65011015a35cc260f3b4f2b72bba11b2657468']",
+    "size = 128"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/b6'": [
+    "dir_name = []",
+    "file_name = ['23e0b9b5f87f48de3b9dd6b51d52b1e3b5c24e', '6bf8b5762dd638f501d527dbd5042c9df8bc72', 'd50abaeefb55c6ead5a7a11dc93859dc205760']",
+    "size = 160"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/a9'": [
+    "dir_name = []",
+    "file_name = ['71a2c93136ccb7f8094a2783d905d33dff9163', '99b37c7c5adb53bf293cf570ffc2f0f0910b2c']",
+    "size = 128"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/d2'": [
+    "dir_name = []",
+    "file_name = ['07d4349d83cb812f25ed4fb358677af0149d01']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/b0'": [
+    "dir_name = []",
+    "file_name = ['b4bcf19b072293a5ebde1811aeeea34ffb6419']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/ef'": [
+    "dir_name = []",
+    "file_name = ['fe125ebf515dd953ae345ab10fedd9854b0c89']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/e1'": [
+    "dir_name = []",
+    "file_name = ['964992ec4e79f218a8a998fac0824a52f94513']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/ff'": [
+    "dir_name = []",
+    "file_name = ['f75dcd1965822ad29c801d3d166e606abd8f0f']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/cb'": [
+    "dir_name = []",
+    "file_name = ['8352596e9da8310c83a1d02d2fed3d297a3b06']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/f8'": [
+    "dir_name = []",
+    "file_name = ['df2992d2586ff0b250bc7b96859f7ae05e1d52']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/2c'": [
+    "dir_name = []",
+    "file_name = ['852c1e380de2e44dfe05ac887ffd87ec2a40eb']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/83'": [
+    "dir_name = []",
+    "file_name = ['c48f9b8b494c3a0c88ae90b75617dc3a129226']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/77'": [
+    "dir_name = []",
+    "file_name = ['8ea1ec069297d3b181b86ae6dd4d67161cc647', 'fc6e697b8d46a19230a34c41ac800b29d93dd6']",
+    "size = 128"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/70'": [
+    "dir_name = []",
+    "file_name = ['46a7bb9e48d9f10229de38688f7f20e0430931']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/24'": [
+    "dir_name = []",
+    "file_name = ['5f94cafdd47eaaa8d003cfa2e0ef871a7ecb29']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/8d'": [
+    "dir_name = []",
+    "file_name = ['d3f8f8a2c3ff6ba4f764b6e453e67934113fd7']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/1d'": [
+    "dir_name = []",
+    "file_name = ['f1c15b958217337c9e0bc1fe2457fb04e8960d']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/1c'": [
+    "dir_name = []",
+    "file_name = ['9c6c4318c3063758442c32c851217877b12c8d']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/82'": [
+    "dir_name = []",
+    "file_name = ['1ff5b4eb7f6beede7c7b5d87a46b2157e05787']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/40'": [
+    "dir_name = []",
+    "file_name = ['5bc4034cf11a87ffe97c4331c47fa94424d6d6']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/8b'": [
+    "dir_name = []",
+    "file_name = ['6f6e0b58a037fcd57acf16095116d195f6dd41']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/14'": [
+    "dir_name = []",
+    "file_name = ['e31209548a3aafda8415385e690ec88c7d596a']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/objects/8e'": [
+    "dir_name = []",
+    "file_name = ['3f7305ba8301c509d93c2b9f33f5e5cb39ee25']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/info'": [
+    "dir_name = []",
+    "file_name = ['exclude']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/logs'": [
+    "dir_name = ['refs']",
+    "file_name = ['HEAD']",
+    "size = 544"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/logs/refs'": [
+    "dir_name = ['heads', 'remotes']",
+    "file_name = []",
+    "size = 416"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/logs/refs/heads'": [
+    "dir_name = []",
+    "file_name = ['main']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/logs/refs/remotes'": [
+    "dir_name = ['origin']",
+    "file_name = []",
+    "size = 192"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/logs/refs/remotes/origin'": [
+    "dir_name = []",
+    "file_name = ['main']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/hooks'": [
+    "dir_name = []",
+    "file_name = ['commit-msg.sample', 'pre-rebase.sample', 'pre-commit.sample', 'applypatch-msg.sample', 'fsmonitor-watchman.sample', 'pre-receive.sample', 'prepare-commit-msg.sample', 'post-update.sample', 'pre-merge-commit.sample', 'pre-applypatch.sample', 'pre-push.sample', 'update.sample', 'push-to-checkout.sample']",
+    "size = 480"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/refs'": [
+    "dir_name = ['heads', 'tags', 'remotes']",
+    "file_name = []",
+    "size = 512"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/refs/heads'": [
+    "dir_name = []",
+    "file_name = ['main']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/refs/tags'": [
+    "dir_name = []",
+    "file_name = []",
+    "size = 64"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/refs/remotes'": [
+    "dir_name = ['origin']",
+    "file_name = []",
+    "size = 192"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.git/refs/remotes/origin'": [
+    "dir_name = []",
+    "file_name = ['main']",
+    "size = 96"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.idea'": [
+    "dir_name = ['inspectionProfiles']",
+    "file_name = ['ДЗ по курсу Python.iml', 'csv-editor.xml', 'vcs.xml', '.gitignore', 'workspace.xml', 'modules.xml', 'misc.xml']",
+    "size = 448"
+  ],
+  "dir_path = '/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/.idea/inspectionProfiles'": [
+    "dir_name = []",
+    "file_name = ['profiles_settings.xml', 'Project_Default.xml']",
+    "size = 128"
+  ]
+}
