@@ -16,7 +16,7 @@ def read_csv(func):
             for enum, line in enumerate(f):
                 if enum != 0:
                     line = line.split('\n')[0].split(',')
-                    line = [int(i) for i in line]
+                    line = map(int, line)
                     print(func(*line))
 
     return wrapper
