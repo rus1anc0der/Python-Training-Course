@@ -55,11 +55,10 @@ class Matrix:
         if self.column == other.column and self.row == other.row:
             for row in range(self.row):
                 for col in range(self.column):
-                    if __name__ == '__main__':
-                        if self.matrix[row][col] == other.matrix[row][col]:
-                            continue
-                        else:
-                            return False
+                    if self.matrix[row][col] == other.matrix[row][col]:
+                        continue
+                    else:
+                        return False
             return True
 
         return False
