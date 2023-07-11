@@ -50,6 +50,20 @@ class Matrix:
                 print(j, end='  ')
             print()
 
+    def __eq__(self, other):
+        """method comparisons"""
+        if self.column == other.column and self.row == other.row:
+            for row in range(self.row):
+                for col in range(self.column):
+                    if __name__ == '__main__':
+                        if self.matrix[row][col] == other.matrix[row][col]:
+                            continue
+                        else:
+                            return False
+            return True
+
+        return False
+
     def __str__(self):
         """print for users"""
         return f'{self.matrix}'
@@ -72,3 +86,5 @@ mal1, mal2, mal3, mal4, mal5 = [1, 2, 3], [4, 5, 6], [7, 8], [9, 1], [2, 3]
 test4 = Matrix(mal1, mal2) * Matrix(mal3, mal4, mal5)
 print(test4)
 print(f"{test = }")
+print(test == test)
+print(test == test2)
