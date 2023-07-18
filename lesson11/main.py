@@ -63,28 +63,54 @@ test3 = Archive('test3', 3)
 
 class Rectangle:
     """Rectangle class. There are methods for comparing and finding the area and perimeter"""
+    __slots__ = ('_length', '_width')
 
     def __init__(self, length, width=None):
-        self.length = length
-        if width is None:
-            self.width = length
+        if length < 0:
+            self._length = 1
         else:
-            self.width = width
+            self._length = length
+        if width is None or width < 0:
+            self._width = length
+        else:
+            self._width = width
+
+    @property
+    def length(self):
+        return self._length
+
+    @length.setter
+    def length(self, value):
+        if value > 0:
+            self._length = value
+        else:
+            raise ValueError("the values must be greater than 0")
+
+    @property
+    def width(self):
+        return self._width
+
+    @width.setter
+    def width(self, value):
+        if value > 0:
+            self._width = value
+        else:
+            raise ValueError("the values must be greater than 0")
 
     def length_rectangle(self):
-        return (self.length + self.width) * 2
+        return (self._length + self._width) * 2
 
     def area_rectangle(self):
-        return self.length * self.width
+        return self._length * self._width
 
     def __add__(self, other):
-        a = self.length + other.length
-        b = self.width + other.width
+        a = self._length + other.get_length
+        b = self._width + other.get_width
         return Rectangle(a, b)
 
     def __sub__(self, other):
-        a = self.length - other.length
-        b = self.width - other.width
+        a = self._length - other.length
+        b = self._width - other.width
         if a < 0 or b < 0:
             return f"the operation is not possible"
         return Rectangle(a, b)
@@ -108,22 +134,20 @@ class Rectangle:
         return self.area_rectangle() >= other.area_rectangle()
 
     def __repr__(self):
-        return f"Rectangle({self.length}, {self.width})"
+        return f"Rectangle({self._length}, {self._width})"
 
     def __str__(self):
-        return f"length = {self.length}\nwidth = {self.width}"
+        return f"length = {self._length}\nwidth = {self._width}"
 
 
 rectangle1 = Rectangle(4, 5)
 rectangle2 = Rectangle(3, 6)
 rectangle3 = Rectangle(4)
-print(rectangle1 + rectangle2)
-print(rectangle1 - rectangle2)
-print(rectangle1 == rectangle2)
-print(rectangle1 != rectangle3)
-print(rectangle1 > rectangle2)
-print(rectangle1 < rectangle2)
-print(rectangle1 >= rectangle3)
-print(rectangle1 <= rectangle3)
-
-
+# print(rectangle1 + rectangle2)
+# print(rectangle1 - rectangle2)
+# print(rectangle1 == rectangle2)
+# print(rectangle1 != rectangle3)
+# print(rectangle1 > rectangle2)
+# print(rectangle1 < rectangle2)
+# print(rectangle1 >= rectangle3)
+# print(rectangle1 <= rectangle3)
