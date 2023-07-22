@@ -194,4 +194,6 @@ class ProjectBaseData:
         return self.set_users
 
 
-print(*ProjectBaseData('func.JSON').add_users_to_DB())
+if __name__ == '__main__':
+    print(*ProjectBaseData('/Users/ruslanrustamov/Documents/Учеба/Python/ДЗ по курсу Python/lesson13/func.JSON')
+          .add_users_to_DB())
