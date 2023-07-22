@@ -75,15 +75,16 @@ class Matrix:
         return f"Matrix({result})"
 
 
-lst1, lst2, lst3, lst4, lst5 = [5, 3, 3, 0, 5], [3, 4, 6, 1, 5], [3, 4, 6, 1, 5], [4, 6, 8, 4, 1], [1, 9, 3, 7, 7]
-test = Matrix(lst1, lst2, lst3, lst4, lst5)
-test2 = Matrix(lst5, lst4, lst3, lst2, lst1)
-test3 = test + test2
-print(test3)
+if __name__ == "__main__":
+    lst1, lst2, lst3, lst4, lst5 = [5, 3, 3, 0, 5], [3, 4, 6, 1, 5], [3, 4, 6, 1, 5], [4, 6, 8, 4, 1], [1, 9, 3, 7, 7]
+    test = Matrix(lst1, lst2, lst3, lst4, lst5)
+    test2 = Matrix(lst5, lst4, lst3, lst2, lst1)
+    test3 = test + test2
+    print(test3)
 
-mal1, mal2, mal3, mal4, mal5 = [1, 2, 3], [4, 5, 6], [7, 8], [9, 1], [2, 3]
-test4 = Matrix(mal1, mal2) * Matrix(mal3, mal4, mal5)
-print(test4)
-print(f"{test = }")
-print(test == test)
-print(test == test2)
+    mal1, mal2, mal3, mal4, mal5 = [1, 2, 3], [4, 5, 6], [7, 8], [9, 1], [2, 3]
+    test4 = Matrix(mal1, mal2) * Matrix(mal3, mal4, mal5)
+    print(test4)
+    print(f"{test = }")
+    print(test == test)
+    print(test == test2)

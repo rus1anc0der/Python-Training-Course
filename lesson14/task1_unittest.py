@@ -16,6 +16,82 @@ class TestTask1(unittest.TestCase):
     def test_func2_1(self):
         self.assertEqual(func2(42), False)
 
+    def test_matrix(self):
+        self.assertIsInstance(Matrix([1], [2]), Matrix)
+
+    def test_matrix_1(self):
+        self.assertNotEqual(Matrix([1], [2]), Matrix([2], [1]))
+
+
+class Matrix:
+    """Matrix class with methods:
+                                 Print output,
+                                 comparisons,
+                                 additions,
+                                 matrix multiplications"""
+
+    def __init__(self, *args):
+        self.matrix = [i for i in args]
+        self.row = len(self.matrix)
+        self.column = len(self.matrix[0])
+
+    def __add__(self, other):
+        """additions"""
+        if self.column == other.column and self.row == other.column:
+            result = []
+            for row, i in enumerate(self.matrix):
+                result.append([])
+                for col, j in enumerate(i):
+                    result[row].append(self.matrix[row][col] + other.matrix[row][col])
+            return Matrix(*result)
+        return f"addition is not possible"
+
+    def __mul__(self, other):
+        """matrix multiplications"""
+        if self.column == other.row:
+            result = []
+            temp = 0
+            for row in range(self.row):
+                result.append([])
+                for col in range(other.column):
+                    for enum in range(self.column):
+                        temp += self.matrix[row][enum] * other.matrix[enum][col]
+                    result[row].append(temp)
+                    temp = 0
+            return Matrix(*result)
+        return f"matrix multiplication is not possible"
+
+    def print_matrix(self):
+        """Print output"""
+        for i in self.matrix:
+            for j in i:
+                print(j, end='  ')
+            print()
+
+    def __eq__(self, other):
+        """method comparisons"""
+        if self.column == other.column and self.row == other.row:
+            for row in range(self.row):
+                for col in range(self.column):
+                    if self.matrix[row][col] == other.matrix[row][col]:
+                        continue
+                    else:
+                        return False
+            return True
+
+        return False
+
+    def __str__(self):
+        """print for users"""
+        return f'{self.matrix}'
+
+    def __repr__(self):
+        """print for Developers"""
+        result = ''
+        for i in self.matrix:
+            result += str(i)
+        return f"Matrix({result})"
+
 
 def func1(a: int, b: int, c: int):
     if a == b == c:
