@@ -7,8 +7,7 @@
     текущий день недели и/или текущий месяц.
 📌 Научите функцию распознавать не только текстовое названия дня недели и месяца, но и числовые, т.е не мая, а 5.
 Второе задание
-📌 Возьмите любые 1-3 задачи из прошлых домашних заданий. Добавьте к ним логирование ошибок и полезной информации.
-    Также реализуйте возможность запуска из командной строки с передачей параметров."""
+📌 Возьмите любые 1-3 задачи из прошлых домашних заданий. Добавьте к ним логирование ошибок и полезной информации."""
 import argparse
 from datetime import datetime, date, time, timedelta
 import logging
@@ -16,7 +15,7 @@ import logging
 
 def logging_writer(func):
     def wrapper(*args, **kwargs):
-        logging.basicConfig(filename='project.log.', filemode='w', encoding='utf-8', level=logging.INFO)
+        logging.basicConfig(filename='project.log.', filemode='a', encoding='utf-8', level=logging.INFO)
         logger = logging.getLogger()
         logger.info(f'\ntime - {datetime.now()}\narguments - {args, kwargs}\nname function - {func.__name__}\n'
                     f'result - {func(*args, **kwargs)}')
@@ -24,12 +23,11 @@ def logging_writer(func):
     return wrapper
 
 
-@logging_writer
 def convert_date(text: str) -> date:
     parse_text = text.split()
     year = datetime.now().year
     logging.basicConfig(filename='task1.log.', filemode='a', encoding='utf-8', level=logging.INFO)
-    logger = logging.getLogger()
+    logger = logging.getLogger('start')
     list_str_month = ['января', "февраля", "марта", "апреля", "мая", "июня", "июля", "августа", "сентября", "октября",
                       "ноября", "декабря"]
     list_int_month = [i for i in range(1, 13)]
@@ -64,25 +62,6 @@ def convert_date(text: str) -> date:
     return result
 
 
-@logging_writer
-def triangle(a: int, b: int, c: int):
-    if a == b == c:
-        return 'Треугольник равносторонний'
-    elif a == b or b == c or a == c:
-        return "Треугольник равнобедренный"
-    else:
-        return "Треугольник разносторонний"
-
-
-def fibonacci(num):
-    if num == 0:
-        return 0
-    elif num == 1:
-        return 1
-    return fibonacci(num - 1) + fibonacci(num - 2)
-
-
-@logging_writer
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('numbers', metavar='N', type=str, nargs='*')
@@ -92,8 +71,6 @@ def main():
         print(convert_date(args_func))  # запуск через консоль
     else:
         print(convert_date('2-ой вторник января'))  # запуск через main
-    triangle(1, 2, 3)
-    print(fibonacci(10))
 
 
 if __name__ == '__main__':
